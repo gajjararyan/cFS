@@ -1,2 +1,4 @@
 /build*/
 
+config.bat
+node_modules
